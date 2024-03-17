@@ -1,0 +1,6 @@
+To: reuther.hols@gmail.com
+From: reuther.hols@gmail.com
+Subject: Copy of .gitconfig.txt
+
+See attached file.
+
