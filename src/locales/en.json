@@ -1,0 +1,60 @@
+{
+  "common": {
+    "nextPart": "Next part",
+    "previousPart": "Previous part",
+    "readMore": "Read more",
+    "proposeChanges": "Propose changes to material"
+  },
+  "searchPage": {
+    "noMatches": "No matches found",
+    "matchesTitle": "Found {{count}} matches for query \"{{query}}\""
+  },
+  "aboutPage": {
+    "generalTitle": "General"
+  },
+  "navigation": {
+    "skipToContent": "Skip to content",
+    "aboutCourse": "About",
+    "courseContents": "Contents",
+    "faq": "FAQ",
+    "partners": "Partners",
+    "challenge": "Challenge",
+    "searchLinkSrLabel": "Search from the material",
+    "ThemeSwitcherSrLabel": "Toggle dark theme",
+    "LanguagePickerSrLabel": "Select language"
+  },
+  "challengePage": {
+    "aboutTitle": "CliniQuick Medical Challenge",
+    "joinTitle": "Clinicians and Healthcare Institutions, Join Our Challenge!",
+    "registerButton": "Enroll in the CliniQuick Medical Challenge",
+    "nameLabel": "Name",
+    "namePlaceholder": "Dr. Alex Johnson",
+    "titleLabel": "Professional Title",
+    "companyLabel": "Institution or Practice",
+    "companyPlaceholder": "Global Health Hospital",
+    "phoneLabel": "Contact Number",
+    "emailLabel": "Email Address",
+    "whereDidYouHearLabel": "How did you learn about this challenge?",
+    "submitButton": "Enroll Now",
+    "submitSuccessMessage": "Thank you for enrolling! We'll be in touch with more details soon.",
+    "participantsTitle": "Meet the Healthcare Professionals Participating in Our Challenge",
+    "coOperationTitle": "In Collaboration With",
+    "infoButton": "Learn More About the Challenge"
+}
+,
+  "companiesPage": {
+    "storiesTitle": "Stories from our partners"
+  },
+  "faqPage": {
+    "faqTitle": "Frequently asked questions"
+  },
+  "homePage": {
+    "startCourseButton": "Start exploring",
+    "announcementsTitle": "Announcements",
+    "authorsTitle": "Authors and License",
+    "courseNameTitle": "CliniQuick"
+  },
+  "notFoundPage": {
+    "title": "Page not found"
+  }
+}

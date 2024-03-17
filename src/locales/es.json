@@ -1,0 +1,59 @@
+{
+  "common": {
+    "nextPart": "",
+    "previousPart": "",
+    "readMore": "",
+    "proposeChanges": ""
+  },
+  "searchPage": {
+    "noMatches": "",
+    "matchesTitle": ""
+  },
+  "navigation": {
+    "skipToContent": "",
+    "aboutCourse": "",
+    "courseContents": "",
+    "faq": "",
+    "partners": "",
+    "challenge": "",
+    "searchLinkSrLabel": "",
+    "ThemeSwitcherSrLabel": "",
+    "LanguagePickerSrLabel": ""
+  },
+  "aboutPage": {
+    "generalTitle": ""
+  },
+  "challengePage": {
+    "aboutTitle": "",
+    "joinTitle": "",
+    "registerButton": "",
+    "nameLabel": "",
+    "namePlaceholder": "",
+    "titleLabel": "",
+    "companyLabel": "",
+    "companyPlaceholder": "",
+    "phoneLabel": "",
+    "emailLabel": "",
+    "whereDidYouHearLabel": "",
+    "submitButton": "",
+    "submitSuccessMessage": "",
+    "participantsTitle": "",
+    "coOperationTitle": "",
+    "infoButton": ""
+  },
+  "homePage": {
+    "startCourseButton": "",
+    "announcementsTitle": "",
+    "authorsTitle": "",
+    "courseNameTitle": ""
+  },
+  "companiesPage": {
+    "storiesTitle": ""
+  },
+  "faqPage": {
+    "faqTitle": ""
+  },
+  "notFoundPage": {
+    "title": ""
+  }
+}

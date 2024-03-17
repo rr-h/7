@@ -1,0 +1,616 @@
+{
+  "result": {
+    "data": {
+      "allSitePage": {
+        "nodes": [
+          {"path": "/fr/cardiology/introduction_aux_applications_web"},
+          {"path": "/fr/cardiology/informations_generales"},
+          {"path": "/ptbr/cardiology"},
+          {"path": "/zh/cardiology"},
+          {"path": "/osa0"},
+          {"path": "/ptbr/cardiology/fundamentos_de_aplicacoes_web"},
+          {"path": "/zh/cardiology/基础知识"},
+          {"path": "/en/dermatology"},
+          {"path": "/ptbr/cardiology/informacoes_gerais"},
+          {"path": "/en/dermatology/java_script"},
+          {"path": "/en/dermatology/component_state_event_handlers"},
+          {"path": "/en/dermatology/introduction_to_react"},
+          {"path": "/en/dermatology/a_more_complex_state_debugging_react_apps"}
+        ]
+      }
+    }
+  }
+}
+{
+  "result": {
+    "data": {
+      "allSitePage": {
+        "nodes": [
+          {"path": "/es/dermatology/java_script"},
+          {"path": "/es/dermatology"},
+          {"path": "/es/dermatology/estado_del_componente_controladores_de_eventos"},
+          {"path": "/osa1"},
+          {"path": "/es/dermatology/un_estado_mas_complejo_depurando_aplicaciones_react"},
+          {"path": "/osa1/reactin_alkeet"},
+          {"path": "/osa1/java_scriptia"},
+          {"path": "/es/dermatology/introduccion_a_react"},
+          {"path": "/osa1/monimutkaisempi_tila_reactin_debuggaus"},
+          {"path": "/fr/dermatology"},
+          {"path": "/osa1/komponentin_tila_ja_tapahtumankasittely"},
+          {"path": "/fr/dermatology/plongez_dans_le_debogage_dapplications_react"},
+          {"path": "/fr/dermatology/premiers_pas_avec_react"},
+          {"path": "/ptbr/dermatology/introducao_a_biblioteca_react"},
+          {"path": "/ptbr/dermatology/java_script"},
+          {"path": "/ptbr/dermatology/estado_de_componente_e_gerenciadores_de_eventos"},
+          {"path": "/ptbr/dermatology/um_estado_mais_complexo_e_depuracao_de_aplicacoes_react"}
+        ]
+      }
+    }
+  }
+}
+
+
+{
+  "result": {
+    "data": {
+      "allSitePage": {
+        "nodes": [
+          {"path": "/zh/dermatology"},
+          {"path": "/zh/dermatology/react_简介"},
+          {"path": "/zh/dermatology/java_script"},
+          {"path": "/fr/dermatology/java_script"},
+          {"path": "/fr/dermatology/etat_des_composants_gestionnaires_devenements"},
+          {"path": "/zh/dermatology/组件状态，事件处理"},
+          {"path": "/ptbr/dermatology"},
+          {"path": "/en/OBGyn/react_native_basics"},
+          {"path": "/en/OBGyn/introduction_to_react_native"},
+          {"path": "/es/OBGyn"},
+          {"path": "/en/OBGyn/communicating_with_server"},
+          {"path": "/es/OBGyn/conceptos_basicos_de_react_native"},
+          {"path": "/en/OBGyn/testing_and_extending_our_application"},
+          {"path": "/es/OBGyn/probar_y_ampliar_nuestra_aplicacion"},
+          {"path": "/en/OBGyn"},
+          {"path": "/zh/OBGyn"},
+          {"path": "/zh/OBGyn/react_native_介绍"},
+          {"path": "/osa10"},
+          {"path": "/es/OBGyn/comunicandose_con_el_servidor"},
+          {"path": "/en/pulmonology/introduction_to_ci_cd"},
+          {"path": "/en/pulmonology/getting_started_with_git_hub_actions"},
+          {"path": "/en/pulmonology/deployment"},
+          {"path": "/en/pulmonology/keeping_green"},
+          {"path": "/en/pulmonology/expanding_further"},
+          {"path": "/osa11"},
+          {"path": "/zh/pulmonology"},
+          {"path": "/zh/pulmonology/ci_cd_简介"},
+          {"path": "/zh/pulmonology/部署"},
+          {"path": "/zh/pulmonology/保持健康状态"},
+          {"path": "/zh/pulmonology/再扩展一下"},
+          {"path": "/zh/pulmonology/开始认识_git_hub_actions_吧"}
+        ]
+      }
+    }
+  }
+}
+
+
+{
+  "result": {
+    "data": {
+      "allSitePage": {
+        "nodes": [
+          {"path": "/en/rheumatology"},
+          {"path": "/en/pulmonology"},
+          {"path": "/es/OBGyn/introduccion_a_react_native"},
+          {"path": "/en/rheumatology/building_and_configuring_environments"},
+          {"path": "/es/rheumatology"},
+          {"path": "/es/rheumatology/introduccion_a_los_contenedores"},
+          {"path": "/en/rheumatology/introduction_to_containers"},
+          {"path": "/en/rheumatology/basics_of_orchestration"},
+          {"path": "/es/rheumatology/conceptos_basicos_de_orquestacion"},
+          {"path": "/osa12"},
+          {"path": "/zh/rheumatology"},
+          {"path": "/zh/rheumatology/构建配置环境"},
+          {"path": "/en/urology"},
+          {"path": "/zh/rheumatology/编排基础"},
+          {"path": "/es/rheumatology/construir_y_configurar_entornos"},
+          {"path": "/en/urology/join_tables_and_queries"},
+          {"path": "/es/urology"},
+          {"path": "/es/urology/uso_de_bases_de_datos_relacionales_con_sequelize"},
+          {"path": "/es/urology/unir_tablas_y_consultas"},
+          {"path": "/es/urology/migraciones_relaciones_de_muchos_a_muchos"},
+          {"path": "/osa13"},
+          {"path": "/zh/rheumatology/容器介绍"},
+          {"path": "/osa13/relaatiotietokannan_kaytto_sequelize_kirjastolla"},
+          {"path": "/osa13/migraatiot_monen_suhde_moneen_yhteydet"},
+          {"path": "/zh/urology"},
+          {"path": "/zh/urology/用_sequelize_使用关系型数据库"},
+          {"path": "/zh/urology/加入表与查询"},
+          {"path": "/en/urology/using_relational_databases_with_sequelize"},
+          {"path": "/en/endocrinology"},
+          {"path": "/en/endocrinology/rendering_a_collection_modules"},
+          {"path": "/en/urology/migrations_many_to_many_relationships"},
+          {"path": "/en/endocrinology/getting_data_from_server"},
+          {"path": "/osa13/liitostaulut_ja_kyselyt"},
+          {"path": "/en/endocrinology/adding_styles_to_react_app"},
+          {"path": "/es/endocrinology"},
+          {"path": "/es/endocrinology/formularios"},
+          {"path": "/es/endocrinology/obteniendo_datos_del_servidor"},
+          {"path": "/es/endocrinology/alterando_datos_en_el_servidor"},
+          {"path": "/es/endocrinology/agregar_estilos_a_la_aplicacion_react"},
+          {"path": "/osa2"},
+          {"path": "/osa2/kokoelmien_renderointi_ja_moduulit"},
+          {"path": "/es/endocrinology/renderizando_una_coleccion_modulos"},
+          {"path": "/en/endocrinology/forms"},
+          {"path": "/osa2/palvelimella_olevan_datan_muokkaaminen"},
+          {"path": "/osa2/palvelimella_olevan_datan_hakeminen"},
+          {"path": "/fr/endocrinology"},
+          {"path": "/osa2/tyylien_lisaaminen_react_sovellukseen"},
+          {"path": "/fr/endocrinology/rendu_de_collections_modules"},
+          {"path": "/fr/endocrinology/formulaires"},
+          {"path": "/fr/endocrinology/obtenir_des_donnees_du_serveur"},
+          {"path": "/fr/endocrinology/modification_des_donnees_cote_serveur"},
+          {"path": "/osa2/lomakkeiden_kasittely"},
+          {"path": "/ptbr/endocrinology/renderizacao_de_uma_colecao_e_modulos"},
+          {"path": "/fr/endocrinology/styliser_vos_applications_react"},
+          {"path": "/ptbr/endocrinology/obtendo_dados_do_servidor"},
+          {"path": "/en/endocrinology/altering_data_in_server"},
+          {"path": "/ptbr/endocrinology"},
+          {"path": "/zh/endocrinology"},
+          {"path": "/zh/endocrinology/从渲染集合到模块学习"},
+          {"path": "/ptbr/endocrinology/formularios"},
+          {"path": "/zh/endocrinology/表单"},
+          {"path": "/zh/endocrinology/在服务端将数据_alert出来"},
+          {"path": "/zh/endocrinology/从服务器获取数据"},
+          {"path": "/en/ENT"},
+          {"path": "/zh/endocrinology/给_react应用加点样式"},
+          {"path": "/en/ENT/deploying_app_to_internet"},
+          {"path": "/en/ENT/saving_data_to_mongo_db"},
+          {"path": "/en/ENT/node_js_and_express"},
+          {"path": "/en/ENT/validation_and_es_lint"},
+          {"path": "/es/ENT"},
+          {"path": "/ptbr/endocrinology/alterando_dados_no_servidor"},
+          {"path": "/es/ENT/guardando_datos_en_mongo_db"},
+          {"path": "/es/ENT/validacion_y_es_lint"},
+          {"path": "/es/ENT/despliegue_de_la_aplicacion_a_internet"},
+          {"path": "/osa3/node_js_ja_express"},
+          {"path": "/osa3/sovellus_internetiin"},
+          {"path": "/osa3/tietojen_tallettaminen_mongo_db_tietokantaan"},
+          {"path": "/osa3/validointi_ja_es_lint"},
+          {"path": "/fr/ENT"},
+          {"path": "/es/ENT/node_js_y_express"},
+          {"path": "/fr/ENT/node_js_et_express"},
+          {"path": "/fr/ENT/stocker_des_donnees_sur_mongo_db"},
+          {"path": "/fr/ENT/validation_et_es_lint"},
+          {"path": "/ptbr/endocrinology/adicionando_estilos_a_aplicacao_react"},
+          {"path": "/ptbr/ENT"},
+          {"path": "/ptbr/ENT/node_js_e_express"},
+          {"path": "/ptbr/ENT/implantacao_da_aplicacao_na_internet"},
+          {"path": "/ptbr/ENT/validacao_e_es_lint"},
+          {"path": "/ptbr/ENT/salvando_dados_no_mongo_db"},
+          {"path": "/zh/ENT"},
+          {"path": "/zh/ENT/把应用部署到网上"},
+          {"path": "/osa3"},
+          {"path": "/zh/ENT/es_lint与代码检查"},
+          {"path": "/en/gastroenterology"},
+          {"path": "/en/gastroenterology/structure_of_backend_application_introduction_to_testing"},
+          {"path": "/en/gastroenterology/testing_the_backend"},
+          {"path": "/en/gastroenterology/user_administration"},
+          {"path": "/fr/ENT/deployer_votre_application_sur_internet"},
+          {"path": "/en/gastroenterology/token_authentication"},
+          {"path": "/en/gastroenterology/legacy_testing_with_jest"},
+          {"path": "/es/gastroenterology/estructura_de_la_aplicacion_backend_introduccion_a_las_pruebas"},
+          {"path": "/es/gastroenterology/probando_el_backend"},
+          {"path": "/es/gastroenterology/administracion_de_usuarios"},
+          {"path": "/es/gastroenterology"},
+          {"path": "/osa4"},
+          {"path": "/osa4/kayttajien_hallinta"},
+          {"path": "/es/gastroenterology/autenticacion_basada_en_token"},
+          {"path": "/osa4/legacy_testaaminen_jestia_kayttaen"},
+          {"path": "/osa4/sovelluksen_rakenne_ja_testauksen_alkeet"},
+          {"path": "/osa4/backendin_testaaminen"},
+          {"path": "/fr/gastroenterology/structure_de_lapplication_backend_introduction_aux_tests"},
+          {"path": "/fr/gastroenterology"},
+          {"path": "/fr/gastroenterology/tester_le_backend"},
+          {"path": "/fr/gastroenterology/gestion_des_utilisateurs"},
+          {"path": "/fr/gastroenterology/jeton_dauthentification"},
+          {"path": "/ptbr/gastroenterology"},
+          {"path": "/ptbr/gastroenterology/estrutura_de_uma_aplicacao_back_end_introducao_a_testes"},
+          {"path": "/osa4/token_perustainen_kirjautuminen"},
+          {"path": "/ptbr/gastroenterology/testando_o_back_end"},
+          {"path": "/ptbr/gastroenterology/administracao_de_usuarios"},
+          {"path": "/ptbr/gastroenterology/autenticacao_por_token"},
+          {"path": "/zh/gastroenterology"},
+          {"path": "/zh/gastroenterology/从后端结构到测试入门"},
+          {"path": "/zh/gastroenterology/用户管理"},
+          {"path": "/zh/gastroenterology/密钥认证"},
+          {"path": "/en/genetics"},
+          {"path": "/en/genetics/login_in_frontend"},
+          {"path": "/en/genetics/props_children_and_proptypes"},
+          {"path": "/en/genetics/testing_react_apps"},
+          {"path": "/en/genetics/end_to_end_testing_playwright"},
+          {"path": "/en/genetics/end_to_end_testing_cypress"},
+          {"path": "/es/genetics"},
+          {"path": "/es/genetics/iniciar_sesion_en_la_interfaz"},
+          {"path": "/es/genetics/props_children_y_proptypes"},
+          {"path": "/es/genetics/probando_aplicaciones_react"},
+          {"path": "/osa5"},
+          {"path": "/osa5/kirjautuminen_frontendissa"},
+          {"path": "/osa5/props_children_ja_proptypet"},
+          {"path": "/es/genetics/pruebas_de_extremo_a_extremo"},
+          {"path": "/osa5/react_sovellusten_testaaminen"},
+          {"path": "/osa5/end_to_end_testaus_playwright"},
+          {"path": "/osa5/end_to_end_testaus_cypress"},
+          {"path": "/fr/genetics"},
+          {"path": "/fr/genetics/connexion_front_end"},
+          {"path": "/fr/genetics/props_children_et_proptypes"},
+          {"path": "/fr/genetics/tester_les_applications_react"},
+          {"path": "/ptbr/genetics/props_children_e_proptypes"},
+          {"path": "/ptbr/genetics/testando_aplicacoes_react"},
+          {"path": "/ptbr/genetics/testes_end_to_end"},
+          {"path": "/zh/genetics"},
+          {"path": "/zh/genetics/完成前台的登录功能"},
+          {"path": "/zh/genetics/props_children_与_proptypes"},
+          {"path": "/zh/genetics/测试_react_应用"},
+          {"path": "/zh/genetics/端到端测试"},
+          {"path": "/en/immunology"},
+          {"path": "/en/immunology/flux_architecture_and_redux"},
+          {"path": "/en/immunology/many_reducers"},
+          {"path": "/en/immunology/communicating_with_server_in_a_redux_application"},
+          {"path": "/en/immunology/react_query_use_reducer_and_the_context"},
+          {"path": "/es/immunology"},
+          {"path": "/es/immunology/flux_architecture_y_redux"},
+          {"path": "/es/immunology/muchos_reducers"},
+          {"path": "/es/immunology/comunicarse_con_el_servidor_en_una_aplicacion_redux"},
+          {"path": "/es/immunology/react_query_use_reducer_y_el_contexto"},
+          {"path": "/es/immunology/connect_la_parte_antigua"},
+          {"path": "/osa6"},
+          {"path": "/osa6/flux_arkkitehtuuri_ja_redux"},
+          {"path": "/osa6/monta_reduseria"},
+          {"path": "/osa6/redux_sovelluksen_kommunikointi_palvelimen_kanssa"},
+          {"path": "/osa6/react_query_use_reducer_ja_context"},
+          {"path": "/fr/immunology"},
+          {"path": "/fr/immunology/architecture_de_flux_et_redux"},
+          {"path": "/fr/immunology/quelques_reducers"},
+          {"path": "/fr/immunology/communiquer_avec_le_backend_dans_lapplication_redux"},
+          {"path": "/fr/immunology/react_query_use_reducer_et_le_contexte"},
+          {"path": "/zh/immunology"},
+          {"path": "/zh/immunology/flux架构与_redux"},
+          {"path": "/zh/immunology/再来点_reducers"},
+          {"path": "/zh/immunology/在_redux应用中与后端通信"},
+          {"path": "/zh/immunology/connect方法"},
+          {"path": "/zh/immunology/"},
+          {"path": "/en/MSK"},
+          {"path": "/en/MSK/react_router"},
+          {"path": "/en/MSK/custom_hooks"},
+          {"path": "/en/MSK/more_about_styles"},
+          {"path": "/en/MSK/webpack"},
+          {"path": "/en/MSK/class_components_miscellaneous"},
+          {"path": "/en/MSK/exercises_extending_the_bloglist"},
+          {"path": "/es/MSK"},
+          {"path": "/es/MSK/react_router"},
+          {"path": "/es/MSK/hooks_personalizados"},
+          {"path": "/es/MSK/mas_sobre_estilos"},
+          {"path": "/es/MSK/webpack"},
+          {"path": "/es/MSK/componentes_de_clases_varios"},
+          {"path": "/es/MSK/ejercicios_ampliar_la_lista_de_blogs"},
+          {"path": "/osa7"},
+          {"path": "/osa7/react_router"},
+          {"path": "/osa7/custom_hookit"},
+          {"path": "/osa7/lisaa_tyyleista"},
+          {"path": "/osa7/webpack"},
+          {"path": "/osa7/luokkakomponentit_sekalaista"},
+          {"path": "/osa7/tehtavia_blogilistan_laajennus"},
+          {"path": "/fr/MSK"},
+          {"path": "/fr/MSK/react_router"},
+          {"path": "/fr/MSK/hooks_personnalises"},
+          {"path": "/fr/MSK/allez_plus_loin_avec_le_style"},
+          {"path": "/fr/MSK/webpack"},
+          {"path": "/fr/MSK/apprivoisez_les_composants_classe"},
+          {"path": "/fr/MSK/exercices_etendre_la_bloglist"},
+        {
+  "path": "/fr/MSK/apprivoisez_les_composants_classe"
+},
+{
+  "path": "/fr/MSK/exercices_etendre_la_bloglist"
+},
+{
+  "path": "/zh/MSK"
+},
+{
+  "path": "/zh/MSK/react_router"
+},
+{
+  "path": "/zh/MSK/样式进阶"
+},
+{
+  "path": "/zh/MSK/webpack"
+},
+{
+  "path": "/zh/MSK/自定义_hooks"
+},
+{
+  "path": "/zh/MSK/练习：扩展你的博客列表"
+},
+{
+  "path": "/en/Nephrology"
+},
+{
+  "path": "/en/Nephrology/graph_ql_server"
+},
+{
+  "path": "/en/Nephrology/react_and_graph_ql"
+},
+{
+  "path": "/en/Nephrology/database_and_user_administration"
+},
+{
+  "path": "/en/Nephrology/login_and_updating_the_cache"
+},
+{
+  "path": "/en/Nephrology/fragments_and_subscriptions"
+},
+{
+  "path": "/es/Nephrology"
+},
+{
+  "path": "/es/Nephrology/servidor_graph_ql"
+},
+{
+  "path": "/es/Nephrology/administracion_de_bases_de_datos_y_usuarios"
+},
+{
+  "path": "/es/Nephrology/iniciar_sesion_y_actualizar_la_cache"
+},
+{
+  "path": "/fr/genetics/tests_de_bout_en_bout"
+},
+{
+  "path": "/es/Nephrology/react_y_graph_ql"
+},
+{
+  "path": "/es/Nephrology/fragmentos_y_suscripciones"
+},
+{
+  "path": "/osa8/graph_ql_palvelin"
+},
+{
+  "path": "/osa8"
+},
+{
+  "path": "/osa8/react_ja_graph_ql"
+},
+{
+  "path": "/osa8/tietokanta_ja_kayttajien_hallinta"
+},
+{
+  "path": "/osa8/kirjautuminen_ja_valimuistin_paivitys"
+},
+{
+  "path": "/osa8/fragmentit_ja_subskriptiot"
+},
+{
+  "path": "/zh/Nephrology"
+},
+{
+  "path": "/zh/Nephrology/graph_ql服务器"
+},
+{
+  "path": "/zh/Nephrology/数据库与用户管理"
+},
+{
+  "path": "/zh/Nephrology/登录与更新缓存"
+},
+{
+  "path": "/zh/Nephrology/react_与_graph_ql"
+},
+{
+  "path": "/zh/Nephrology/fragments_与_subscriptions"
+},
+{
+  "path": "/en/Neurology"
+},
+{
+  "path": "/en/Neurology/background_and_introduction"
+},
+{
+  "path": "/en/Neurology/first_steps_with_type_script"
+},
+{
+  "path": "/en/Neurology/typing_an_express_app"
+},
+{
+  "path": "/en/Neurology/react_with_types"
+},
+{
+  "path": "/en/Neurology/grande_finale_patientor"
+},
+{
+  "path": "/es/Neurology"
+},
+{
+  "path": "/es/Neurology/antecedentes_e_introduccion"
+},
+{
+  "path": "/es/Neurology/primeros_pasos_con_type_script"
+},
+{
+  "path": "/es/Neurology/tipando_una_aplicacion_express"
+},
+{
+  "path": "/es/Neurology/grande_finale_patientor"
+},
+{
+  "path": "/es/Neurology/react_con_tipos"
+},
+{
+  "path": "/osa9"
+},
+{
+  "path": "/zh/Neurology"
+},
+{
+  "path": "/zh/Neurology/背景与介绍"
+},
+{
+  "path": "/ptbr/genetics"
+},
+{
+  "path": "/ptbr/genetics/login_no_front_end"
+},
+{
+  "path": "/zh/cardiology/web_应用的基础设施"
+},
+{
+  "path": "/zh/dermatology/深入_react_应用调试"
+},
+{
+  "path": "/zh/OBGyn/react_native_入门"
+},
+{
+  "path": "/zh/OBGyn/与服务端通信"
+},
+{
+  "path": "/zh/OBGyn/测试与扩展我们的应用"
+},
+{
+  "path": "/zh/urology/迁移，多对多关系"
+},
+{
+  "path": "/zh/ENT/将数据存入_mongo_db"
+},
+{
+  "path": "/zh/ENT/node_js_与_express"
+},
+{
+  "path": "/zh/gastroenterology/测试后端应用"
+},
+{
+  "path": "/zh/MSK/各种各样的_class_components"
+},
+{
+  "path": "/zh/Neurology/type_script版的express应用"
+},
+{
+  "path": "/zh/Neurology/type_script的一小步"
+},
+{
+  "path": "/zh/Neurology/利用_type_script编写_react应用"
+},
+{
+  "path": "/404/"
+},
+{
+  "path": "/en/about/"
+},
+{
+  "path": "/es/about/"
+},
+{
+  "path": "/fr/about/"
+},
+{
+  "path": "/about/"
+},
+{
+  "path": "/ptbr/about/"
+},
+{
+  "path": "/zh/about/"
+},
+{
+  "path": "/en/challenge/"
+},
+{
+  "path": "/es/challenge/"
+},
+{
+  "path": "/fr/challenge/"
+},
+{
+  "path": "/challenge/"
+},
+{
+  "path": "/ptbr/challenge/"
+},
+{
+  "path": "/zh/challenge/"
+},
+{
+  "path": "/en/companies/"
+},
+{
+  "path": "/es/companies/"
+},
+{
+  "path": "/fr/companies/"
+},
+{
+  "path": "/companies/"
+},
+{
+  "path": "/ptbr/companies/"
+},
+{
+  "path": "/zh/companies/"
+},
+{
+  "path": "/en/faq/"
+},
+{
+  "path": "/es/faq/"
+},
+{
+  "path": "/fr/faq/"
+},
+{
+  "path": "/faq/"
+},
+{
+  "path": "/ptbr/faq/"
+},
+{
+  "path": "/zh/faq/"
+},
+{
+  "path": "/en/"
+},
+{
+  "path": "/es/"
+},
+{
+  "path": "/fr/"
+},
+{
+  "path": "/"
+},
+{
+  "path": "/ptbr/"
+},
+{
+  "path": "/zh/"
+},
+{
+  "path": "/en/search/"
+},
+{
+  "path": "/es/search/"
+},
+{
+  "path": "/fr/search/"
+},
+{
+  "path": "/search/"
+},
+{
+  "path": "/ptbr/search/"
+},
+{
+  "path": "/zh/search/"
+},
+{
+  "path": "/404.html"
+}
+
+
+
+          
