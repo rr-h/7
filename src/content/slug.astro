@@ -1,0 +1,13 @@
+---
+// Import the necessary tool to fetch Markdown content
+import { Markdown } from 'src/content/*';
+import { getPostBySlug } from '../lib/posts';
+
+const { slug } = Astro.request.params;
+const post = await getPostBySlug(slug);
+---
+
+<article>
+  <Markdown content={post.content} />
+  
+</article>
